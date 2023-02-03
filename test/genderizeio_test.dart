@@ -1,4 +1,4 @@
-import 'package:my_genderizeio/genderizeio.dart';
+import 'package:my_genderizeio/my_genderizeio.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 import 'package:test/test.dart';

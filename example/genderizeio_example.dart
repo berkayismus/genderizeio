@@ -1,4 +1,4 @@
-import 'package:my_genderizeio/genderizeio.dart';
+import 'package:my_genderizeio/my_genderizeio.dart';
 
 void main() async {
   final genderize = GenderizeAPI();
